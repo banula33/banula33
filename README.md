@@ -29,14 +29,11 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Why: Demonstrates basic analog audio mixing and simple voice-overlay techniques for small electronics projects.
 - Contents: Schematic, parts list (BOM), PCB layout (if available), and build/instructions in the repo README.
 - Repo: https://github.com/banula33/analog-voice-over-circuit
-  
-![Circuit schematic](https://github.com/banula33/banula33/blob/main/images/FINAL%20PRODUCT.jpeg )
-_Figure 1 — Schematic of the analog voice-over circuit._
 
-![PCB layout](images/pcb.png)
-_Figure 2 — PCB layout (top view)._
-
----
+    <div style="text-align: center;">
+    <img src="https://github.com/banula33/banula33/blob/main/images/FINAL%20PRODUCT.jpeg" width="200"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/MULTILAYER%20PCB.jpeg" width="205"/>
+    </div></div>
 
 ## GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=banula33&show_icons=true&theme=radical)
