@@ -25,7 +25,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
 ## Featured Project 
 ### Analog Voice Over Circuit
-- What: My first repository — an analog voice-over / audio mixing circuit project (schematic, notes, and build files).
+- What: an analog voice-over / audio mixing circuit project (schematic, notes, and build files).
 - Why: Demonstrates basic analog audio mixing and simple voice-overlay techniques for small electronics projects.
 - Contents: Schematic, parts list (BOM), PCB layout (if available), and build/instructions in the repo README.
 - Repo: https://github.com/banula33/analog-voice-over-circuit
