@@ -1,4 +1,4 @@
-# Hi 👋 I'm Banula Balasooriya (banula33)
+# Hi 👋 I'm Banula Balasooriya 
 
 
 > 2nd-year undergraduate — University of Moratuwa  
