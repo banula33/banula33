@@ -45,9 +45,8 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
 ## Contact
 - GitHub: [banula33](https://github.com/banula33)  
-- Email: hello@your-email.example (replace with your email)  
-- LinkedIn: https://www.linkedin.com/in/yourprofile (replace with your LinkedIn)
-
+- Email: banulabalasooriya@gmail.com 
+- LinkedIn:https://www.linkedin.com/in/banula-balasooriya-43897239a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 Thanks for visiting my profile 👋
