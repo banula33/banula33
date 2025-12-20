@@ -37,7 +37,6 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
 ## GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=banula33&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=banula33&layout=compact&theme=radical)
 
 ---
 
