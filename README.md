@@ -30,7 +30,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Contents: Schematic, parts list (BOM), PCB layout (if available), and build/instructions in the repo README.
 - Repo: https://github.com/banula33/analog-voice-over-circuit
   
-![Circuit schematic](images/schematic.png)
+![Circuit schematic](images/FINAL PRODUCT.jpeg )
 _Figure 1 — Schematic of the analog voice-over circuit._
 
 ![PCB layout](images/pcb.png)
