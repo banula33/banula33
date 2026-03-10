@@ -35,10 +35,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
     <img src="https://github.com/banula33/banula33/blob/main/images/MULTILAYER%20PCB.jpeg" width="205"/>
     </div></div>
 
-## GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=banula33&show_icons=true&theme=radical)
 
----
 
 ## Contact
 - GitHub: [banula33](https://github.com/banula33)  
