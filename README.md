@@ -43,7 +43,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
     <div style="text-align: center;">
     <img src="https://github.com/banula33/banula33/blob/main/images/petfeeder/final_product.png" width="200"/>
-    <img src="https://github.com/banula33/banula33/blob/main/images/MULTILAYER%20PCB.jpeg](https://github.com/banula33/banula33/blob/main/images/petfeeder/pcb_design.png" width="205"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/petfeeder/pcb_design.png" width="205"/>
     </div></div> 
 
 
