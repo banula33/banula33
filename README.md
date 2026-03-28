@@ -23,6 +23,14 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 ---
 
 ## Featured Project 
+
+### Custom Esp32 S3 Development Board Design for Roboticgen
+- Designed a custom ESP32-S3 development board for robotics and embedded systems.
+- Engineered a compact PCB with stable power regulation, USB programming interface, and GPIO expansion.
+- Optimized layout for signal integrity, power distribution, and manufacturability.
+
+
+    
 ### Analog Voice Over Circuit
 - What: an analog voice-over / audio mixing circuit project (schematic, notes, and build files).
 - Why: Demonstrates basic analog audio mixing and simple voice-overlay techniques for small electronics projects.
