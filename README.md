@@ -16,10 +16,9 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 ---
 
 ## Skills & Tools
-- Electronics: Circuit design, PCB prototyping, LTSpice, Multisim
-- Embedded: Arduino, STM32 basics, C/C++
-- Tools: KiCad, Eagle, Oscilloscope, Multimeter
-- Software: Python (for quick scripts and data processing), Git & GitHub
+- Electronics: Circuit design, PCB prototyping, LTSpice
+- Embedded: Arduino, STM32 basics, C/C++, ESP32
+- Tools: EASY EDA, ALTIUM, Solidworks, Github, VScode
 
 ---
 
