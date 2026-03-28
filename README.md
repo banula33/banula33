@@ -35,6 +35,16 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
     <img src="https://github.com/banula33/banula33/blob/main/images/MULTILAYER%20PCB.jpeg" width="205"/>
     </div></div>
 
+### Automatic Pet Feeder (ESP32 + MQTT)
+- Designed and developed an IoT-enabled embedded system for automated pet feeding using ESP32
+- Designed a custom PCB integrating ESP32, motor driver, and power regulation circuits
+- Implemented WiFi + MQTT communication for real-time remote control and monitoring
+- Repo https://github.com/banula33/Automatic-Pet-Feeder
+
+    <div style="text-align: center;">
+    <img src="https://github.com/banula33/banula33/blob/main/images/FINAL%20PRODUCT.jpeg" width="200"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/MULTILAYER%20PCB.jpeg" width="205"/>
+    </div></div> 
 
 
 ## Contact
