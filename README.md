@@ -24,6 +24,18 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
 ## Featured Project 
 
+### Custom Solar Charge Controller with Basic MPPT for RoboticGen
+- Designed a custom solar charge controller for embedded power and energy applications.
+- Implemented a basic MPPT algorithm (Perturb & Observe) for efficient solar energy harvesting.
+- Engineered voltage/current sensing and PWM-based buck converter control for battery charging.
+- Optimized the system for stable power regulation, protection, and real-time monitoring.
+- Repo: https://github.com/banula33/OBOESP32-Developments
+
+<div style="text-align: center;">
+    <img src="YOUR_IMAGE_LINK_1" width="200"/>
+    <img src="YOUR_IMAGE_LINK_2" width="205"/>
+</div>
+
 ### Custom Esp32 S3 Development Board Design for Roboticgen
 - Designed a custom ESP32-S3 development board for robotics and embedded systems.
 - Engineered a compact PCB with stable power regulation, USB programming interface, and GPIO expansion.
