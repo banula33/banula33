@@ -28,8 +28,10 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Designed a custom ESP32-S3 development board for robotics and embedded systems.
 - Engineered a compact PCB with stable power regulation, USB programming interface, and GPIO expansion.
 - Optimized layout for signal integrity, power distribution, and manufacturability.
+- Repo: https://github.com/banula33/OBOESP32-Developments
+
 <div style="text-align: center;">
-    <img src="https://github.com/banula33/banula33/blob/main/images/BoardIMAGE.png" width="200"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/BoardIMAGE(2).png" width="200"/>
     <img src="https://github.com/banula33/banula33/blob/main/images/Screenshot 2026-05-08 215727.png" width="205"/>
     </div></div>
 
