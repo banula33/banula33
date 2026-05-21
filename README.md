@@ -32,8 +32,8 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Repo: https://github.com/banula33/OBOESP32-Developments
 
 <div style="text-align: center;">
-    <img src="YOUR_IMAGE_LINK_1" width="200"/>
-    <img src="YOUR_IMAGE_LINK_2" width="205"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/PCB_SOLAR.png" width="200"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/SCH_SOLAR.png" width="205"/>
 </div>
 
 ### Custom Esp32 S3 Development Board Design for Roboticgen
