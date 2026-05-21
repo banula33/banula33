@@ -30,7 +30,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Optimized layout for signal integrity, power distribution, and manufacturability.
 <div style="text-align: center;">
     <img src="https://github.com/banula33/banula33/blob/main/images/BoardIMAGE.png" width="200"/>
-    <img src="https://github.com/banula33/banula33/blob/main/images/Screenshot 2026-05-08 215727" width="205"/>
+    <img src="https://github.com/banula33/banula33/blob/main/images/Screenshot 2026-05-08 215727.png" width="205"/>
     </div></div>
 
     
