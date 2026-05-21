@@ -32,6 +32,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Repo: https://github.com/banula33/OBOESP32-Developments
 
 <div style="text-align: center;">
+    <img src="https://github.com/banula33/banula33/blob/main/images/3D_SOLAR.png" width="200"/>
     <img src="https://github.com/banula33/banula33/blob/main/images/PCB_SOLAR.png" width="200"/>
     <img src="https://github.com/banula33/banula33/blob/main/images/SCH_SOLAR.png" width="205"/>
 </div>
