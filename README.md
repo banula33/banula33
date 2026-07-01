@@ -1,4 +1,4 @@
-# Hi 👋 I'm Banula Balasooriya 
+9# Hi 👋 I'm Banula Balasooriya 
 
 
 > 2nd-year undergraduate — University of Moratuwa  
@@ -29,7 +29,7 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 - Implemented a basic MPPT algorithm (Perturb & Observe) for efficient solar energy harvesting.
 - Engineered voltage/current sensing and PWM-based buck converter control for battery charging.
 - Optimized the system for stable power regulation, protection, and real-time monitoring.
-- Repo: https://github.com/banula33/OBOESP32-Developments
+- Repo: https://github.com/banula33/MPPT-Solar-Charger
 
 <div style="text-align: center;">
     <img src="https://github.com/banula33/banula33/blob/main/images/3D_SOLAR.png" width="200"/>
@@ -39,7 +39,8 @@ I am Banula Balasooriya, a 2nd‑year undergraduate at the University of Moratuw
 
 ### Custom Esp32 S3 Development Board Design for Roboticgen
 - Designed a custom ESP32-S3 development board for robotics and embedded systems.
-- Engineered a compact PCB with stable power regulation, USB programming interface, and GPIO expansion.
+- Engineered a compact PCB with stable po
+- wer regulation, USB programming interface, and GPIO expansion.
 - Optimized layout for signal integrity, power distribution, and manufacturability.
 - Repo: https://github.com/banula33/OBOESP32-Developments
 
